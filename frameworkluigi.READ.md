@@ -1,6 +1,6 @@
 O que o código Luigi faz
 
-O exemplo que te mostrei é uma tarefa simples criada com o framework Luigi.
+O exemplo que é uma tarefa simples criada com o framework Luigi.
 
 • 	Ele define uma tarefa () que gera um arquivo chamado .
 • 	Dentro desse arquivo, escreve a frase: "Olá, este é um exemplo simples com Luigi!".
